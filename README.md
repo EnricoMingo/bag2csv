@@ -1,6 +1,6 @@
 bag2csv
 =======
-Porting to Python 3 of the ```bag2csv``` script from Nick Speal.
+Porting to Python 3 of the ```bag2csv``` script to convert bag files into csv files, from Nick Speal.
 
 Usage:
 ------
